@@ -1,5 +1,3 @@
-# day02-2025-03-18
-
 # Calculator  - Axure RP 9 Component
 
 ## Overview
@@ -21,12 +19,7 @@ The calculator consists of:
   
 ### Outputs
 
-![Screenshot (947)](https://github.com/user-attachments/assets/23fb1600-101c-443e-a1a0-04bd906fb793)
-
-![Screenshot (948)](https://github.com/user-attachments/assets/2dd2d7d6-8bc5-453c-bc3e-e979d00dca2d)
-
-![Screenshot (949)](https://github.com/user-attachments/assets/c7d892b4-58ca-42b7-b372-2b86e2ec1e62)
-
+![output](https://github.com/user-attachments/assets/afdf2092-d79e-4f23-97fe-b74e58d624cf)
 
 ## Testing
 - Test all numeric inputs to ensure proper display updating
